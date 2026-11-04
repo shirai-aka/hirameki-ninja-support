@@ -6,3 +6,5 @@ iOSアプリ「ひらめき忍者と 四つの里」の公開ページです。
 - プライバシーポリシー: https://shirai-aka.github.io/hirameki-ninja-support/privacy-policy/
 
 本文の原本はアプリのリポジトリ `logic-tower-kids` の `docs/` にあります。内容を変えるときは両方を同時に更新してください。
+
+英語版（参考訳）は各ディレクトリの `index.en.html` にあります。
